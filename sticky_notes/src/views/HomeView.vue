@@ -42,6 +42,7 @@ const postsDefine = useDefinePosts()
     background-color: rgba(0, 0, 0, 0.2);
     border-radius: 10px;
     display: flex;
+    flex-direction: row-reverse;
     justify-content: flex-start;
     flex-wrap: wrap;
     justify-content: center;
